@@ -28,7 +28,7 @@ Class #27 members:
 - [Marlon Palpa](https://github.com/malanchito)
 
 Class #28 members:
-- [Meenakshi Venkat] (https://github.com/meena333)
+- [Meenakshi Venkat] (`https://github.com/meena333`)
 - [Julia Jankowska] (https://github.com/julenia)
 - [Suhas K N] (https://github.com/suhaskn)
 - [Gergő Kovács] (https://github.com/gergokutu)
